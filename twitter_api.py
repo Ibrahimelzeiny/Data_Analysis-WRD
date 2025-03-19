@@ -5,6 +5,8 @@ from timeit import default_timer as timer
 
 # Query Twitter API for each tweet in the Twitter archive and save JSON in a text file
 # These are hidden to comply with Twitter's API terms and conditions
+
+
 consumer_key = 'HIDDEN'
 consumer_secret = 'HIDDEN'
 access_token = 'HIDDEN'
